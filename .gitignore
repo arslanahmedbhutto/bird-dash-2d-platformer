@@ -1,0 +1,15 @@
+build/
+dist/
+bin/
+out/
+*.class
+
+# IDE / OS
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+__MACOSX/
