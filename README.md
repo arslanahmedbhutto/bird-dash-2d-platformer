@@ -4,8 +4,6 @@ A side-scrolling platformer written in plain Java (AWT/Swing, no game engine). G
 
 ![Gameplay](screenshots/gameplay.gif)
 
-*The GIF was recorded by a scripted "autopilot" playing level 1 from start to flag.*
-
 ## Features
 
 - **Two levels loaded from text tile maps** (`maps/map1.txt`, `maps/map2.txt`): edit the characters to redesign a level.
